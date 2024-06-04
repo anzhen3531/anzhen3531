@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anzhen3531
-- 👀 I’m interested in `Java` 、`Vue` 、`GoLang`
-- 🌱 I’m currently learning `GoLang`
+- 👀 I’m interested in `Java` 、`Vue` 、`Python`
+- 🌱 I’m currently learning `Python`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhen3531&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
