@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anzhen3531
+- 👋 Hi, I’m AnZhen
 - 👀 I’m interested in `Java` 、`Vue` 、`Python`
 - 🌱 I’m currently learning `Python`
 
